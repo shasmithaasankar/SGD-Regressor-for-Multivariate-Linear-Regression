@@ -45,7 +45,6 @@ y_test = scaler_y.inverse_transform(y_test)
 mse = mean_squared_error(y_test, y_pred)
 print("Mean Squared Error:", mse)
 print("\nPredictions:\n", y_pred[:5])
-
 */
 
 ## Output:
