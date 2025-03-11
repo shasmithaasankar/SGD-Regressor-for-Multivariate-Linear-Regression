@@ -52,7 +52,8 @@ print("\nPredictions:\n", y_pred[:5])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3303ce4a-d543-45aa-baaf-04701c4d2b88)
+![Screenshot 2025-03-11 092203](https://github.com/user-attachments/assets/3f7ed74d-6cb5-4512-82b2-9a5ef7003ff2)
+
 
 
 ## Result:
