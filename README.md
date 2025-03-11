@@ -14,11 +14,11 @@ Load California housing data, select features and targets, and split into traini
 4.Predict on test data, inverse transform the results, and calculate the mean squared error.
 
 ## Program:
-
+/*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: Nan
 RegisterNumber: 212224040211
-/*
+
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
