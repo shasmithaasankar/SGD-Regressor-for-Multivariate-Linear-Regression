@@ -15,6 +15,7 @@ Load California housing data, select features and targets, and split into traini
 
 ## Program:
 
+```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: Nandhini M
@@ -48,7 +49,7 @@ print("Mean Squared Error:", mse)
 print("\nPredictions:\n", y_pred[:5])
 
 */
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/3303ce4a-d543-45aa-baaf-04701c4d2b88)
